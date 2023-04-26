@@ -1,0 +1,9 @@
+.Form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-bottom: 1px dashed gray;
+    padding: 24px 0px;
+    margin: 24px 0px;
+    width: 50%;
+}
